@@ -1,6 +1,6 @@
 # Os Incríveis
 
-<img src = "imagens/os incriveis.png">
+<img src = "imagens/os incriveis.png" height = "" width = "800">
 
 ### Membros Atuais da Equipe
 
