@@ -43,3 +43,5 @@ https://www.legiaodosherois.com.br/lista/mulher-invisivel-poderes-quarteto-fanta
 https://marvel.fandom.com/pt-br/wiki/Jonathan_Storm_(Terra-616)#:~:text=Poderes,-Tocha%20Humana&text=Pirogênese%3A%20O%20Tocha%20Humana%20possuía,ardente%20e%20semelhante%20ao%20plasma.
 
 https://pt.wikipedia.org/wiki/Tartarugas_Ninja
+
+##### Para ler mais sobre as super-equipes [clique aqui](https://github.com/CassiaAlthman/super-equipes)
